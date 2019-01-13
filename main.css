@@ -4,8 +4,8 @@ a {
 }
 
 a:hover {
-    color: crimson;
-    text-decoration-line: underline;
+    text-decoration: crimson;
+    text-decoration: underline;
 }
 
 a:visited {
@@ -43,6 +43,6 @@ img {
 
 #text {
     margin-left: 150px;
-    margin-right: 600px;
+    margin-right: 30%;
 }
 
