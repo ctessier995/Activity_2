@@ -26,9 +26,11 @@ img {
 }
 
 #top {
+    font-size: large;
     background-color: white;
+    padding-top: 30px;
     padding-left: 200px;
-    padding-bottom: 100px;
+    padding-bottom: 30px;
 }
 
 #sidebar {
@@ -41,5 +43,6 @@ img {
 
 #text {
     margin-left: 150px;
+    margin-right: 600px;
 }
 
